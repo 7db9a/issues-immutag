@@ -1,0 +1,1 @@
+local_files' init and don't return String for a write function.
